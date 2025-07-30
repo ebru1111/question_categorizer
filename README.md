@@ -226,7 +226,6 @@ question-categorizer/
 
 **Memory sorunu:** Docker container'ı daha fazla RAM ile çalıştırın
 
-## İletişim
 
 - **Proje:** AI Soru Kategorizasyon Sistemi
 - **Versiyon:** 1.0.0
