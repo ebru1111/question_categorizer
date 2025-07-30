@@ -8,13 +8,7 @@ Bu proje, kullanıcı sorularını 9 farklı kategoriye ayıran gelişmiş bir A
 
 - **9 farklı kategori** desteği
 - **Embedding tabanlı** AI kategorizasyon
-- **Yüksek doğruluk** oranı (%85+)
-- **Çok dilli** destek (Türkçe/İngilizce)
-- **RESTful API** arayüzü
-- **Hızlı yanıt** süresi (~100-200ms)
-- **Docker** desteği
-- **Kapsamlı test** sistemi
-- **Detaylı dokümantasyon**
+
 
 ## Sistem Mimarisi
 
