@@ -24,6 +24,7 @@ Bu proje, kullanıcı sorularını 9 farklı kategoriye ayıran gelişmiş bir A
                                               │ + Cosine Sim.   │
                                               └─────────────────┘
 ```
+<img width="2804" height="2024" alt="mermaid-diagram-2025-07-30-020241" src="https://github.com/user-attachments/assets/415d4709-11d2-4846-98a3-de941adcc242" />
 
 ## Kurulum
 
